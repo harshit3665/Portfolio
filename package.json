@@ -20,7 +20,6 @@
     "react-dom": "19.2.4",
     "react-github-calendar": "^5.0.6",
     "react-intersection-observer": "^10.0.3",
-    "react-tsparticles": "^2.12.2",
     "recharts": "^3.9.0",
     "tailwind-merge": "^3.6.0",
     "tsparticles": "^4.2.1"
